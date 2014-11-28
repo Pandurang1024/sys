@@ -87,7 +87,7 @@ class NumbersController < ApplicationController
 
     #Need fix here
     def generate(n)
-    return n + 1
+    return n + 2
     end
 
 
